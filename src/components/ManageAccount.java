@@ -13,7 +13,6 @@ import src.objects.User;
 public class ManageAccount extends JPanel {
     public ManageAccount(User user) {
 
-        // 🎨 Colors
         Color lightBlue = new Color(173, 216, 230);
         Color softBlue = new Color(135, 206, 250);
 
