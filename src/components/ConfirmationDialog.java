@@ -23,7 +23,6 @@ public class ConfirmationDialog {
         dialog.setSize(new Dimension(400, 200));
         dialog.setLocationRelativeTo(frame);
 
-        // 🎨 Light blue colors
         Color lightBlue = new Color(173, 216, 230);
         Color softBlue = new Color(135, 206, 250);
 
