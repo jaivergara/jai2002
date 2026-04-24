@@ -13,7 +13,6 @@ public class ViewUsersAttendance extends JPanel {
 
     public ViewUsersAttendance(User user) {
 
-        // 🎨 Colors
         Color lightBlue = new Color(173, 216, 230);
         Color softBlue = new Color(135, 206, 250);
 
