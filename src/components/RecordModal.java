@@ -17,7 +17,6 @@ public class RecordModal {
                 "Attendance Record",
                 true);
 
-        // 🎨 Colors
         Color lightBlue = new Color(173, 216, 230);
 
         dialog.setSize(400, 400);
