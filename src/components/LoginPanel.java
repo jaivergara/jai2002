@@ -22,7 +22,6 @@ import java.awt.Color;
 public class LoginPanel extends JPanel {
     public LoginPanel() {
 
-        // 🎨 Colors
         Color lightBlue = new Color(173, 216, 230);
         Color softBlue = new Color(135, 206, 250);
 
