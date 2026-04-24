@@ -21,7 +21,6 @@ public class EditAccount extends JPanel {
 
     public EditAccount(User user) {
 
-        // 🎨 Colors
         Color lightBlue = new Color(173, 216, 230);
         Color softBlue = new Color(135, 206, 250);
 
